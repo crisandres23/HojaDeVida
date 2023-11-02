@@ -1,0 +1,35 @@
+body {
+  background-color: black;
+}
+
+h1, h2, h3, a{
+  color: yellow;
+}
+.icon-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  ;
+  text-align: center;
+}
+
+h1, ul, p, h3, li, a {
+  text-align: center;
+}
+
+p, th, td, li {
+  color: white;
+}
+.titulo {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  
+  border-radius: 3px;
+  border: 5px;
+  
+}
+.container {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  border-radius: 3px;
+  border: 5px solid; 
+}
